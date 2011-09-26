@@ -1,8 +1,20 @@
+#
+# This file is part of Games-Risk-ExtraMaps-Imaginary
+#
+# This software is Copyright (c) 2011 by Jerome Quelin.
+#
+# This is free software, licensed under:
+#
+#   The GNU General Public License, Version 3, June 2007
+#
 use 5.010;
 use strict;
 use warnings;
 
 package Games::Risk::Map::Godstorm;
+{
+  $Games::Risk::Map::Godstorm::VERSION = '1.112690';
+}
 # ABSTRACT: Risk GodStorm
 
 use Moose;
@@ -180,8 +192,36 @@ no Moose;
 __PACKAGE__->meta->make_immutable;
 
 1;
-__END__
+
+
+=pod
+
+=head1 NAME
+
+Games::Risk::Map::Godstorm - Risk GodStorm
+
+=head1 VERSION
+
+version 1.112690
 
 =head1 DESCRIPTION
 
 Risk GodStorm by Yura Mamyrin.
+
+=head1 AUTHOR
+
+Jerome Quelin
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2011 by Jerome Quelin.
+
+This is free software, licensed under:
+
+  The GNU General Public License, Version 3, June 2007
+
+=cut
+
+
+__END__
+

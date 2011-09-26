@@ -19,13 +19,13 @@ name: Games-Risk-ExtraMaps-Imaginary
 provides:
   Games::Risk::ExtraMaps::Imaginary:
     file: lib/Games/Risk/ExtraMaps/Imaginary.pm
-    version: 1.112690
+    version: 3.112691
   Games::Risk::Map::Godstorm:
     file: lib/Games/Risk/Map/Godstorm.pm
-    version: 1.112690
+    version: 3.112691
   Games::Risk::Map::Risk2210:
     file: lib/Games/Risk/Map/Risk2210.pm
-    version: 1.112690
+    version: 3.112691
 requires:
   Games::Risk::ExtraMaps: 0
   Games::Risk::Map: 0
@@ -38,7 +38,8 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Games-Risk-ExtraMaps-Imaginary
   homepage: http://search.cpan.org/dist/Games-Risk-ExtraMaps-Imaginary/
-version: 1.112690
+  repository: git://github.com/jquelin/games-risk-extramaps-imaginary.git
+version: 3.112691
 x_Dist_Zilla:
   plugins:
     -

@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::Map::Risk2210;
 {
-  $Games::Risk::Map::Risk2210::VERSION = '1.112690';
+  $Games::Risk::Map::Risk2210::VERSION = '3.112691';
 }
 # ABSTRACT: Risk 2210 Map
 
@@ -227,7 +227,7 @@ Games::Risk::Map::Risk2210 - Risk 2210 Map
 
 =head1 VERSION
 
-version 1.112690
+version 3.112691
 
 =head1 DESCRIPTION
 

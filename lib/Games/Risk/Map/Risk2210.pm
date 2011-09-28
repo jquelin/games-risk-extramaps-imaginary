@@ -40,11 +40,11 @@ return (
 [4, __("Africa"), 3, "orange"],
 [5, __("Asia"), 7, "green"],
 [6, __("Australia"), 2, "magenta"],
-[7, __("US Pacific"), 2, "blue"],
-[8, __("Asia Pacific"), 1, "yellow"],
+[7, __("Asia Pacific"), 1, "yellow"],
+[8, __("US Pacific"), 2, "blue"],
 [9, __("North Atlantic"), 2, "red"],
 [10, __("South Atlantic"), 1, "green"],
-[11, __("Indian"), 1, "orange"],
+[11, __("Indian"), 2, "orange"],
 );
 }
 

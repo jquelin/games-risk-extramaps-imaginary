@@ -4,7 +4,7 @@
       "Jerome Quelin"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112150",
+   "generated_by" : "Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112621",
    "license" : [
       "gpl_3"
    ],
@@ -47,15 +47,15 @@
    "provides" : {
       "Games::Risk::ExtraMaps::Imaginary" : {
          "file" : "lib/Games/Risk/ExtraMaps/Imaginary.pm",
-         "version" : "3.112691"
+         "version" : "3.112710"
       },
       "Games::Risk::Map::Godstorm" : {
          "file" : "lib/Games/Risk/Map/Godstorm.pm",
-         "version" : "3.112691"
+         "version" : "3.112710"
       },
       "Games::Risk::Map::Risk2210" : {
          "file" : "lib/Games/Risk/Map/Risk2210.pm",
-         "version" : "3.112691"
+         "version" : "3.112710"
       }
    },
    "release_status" : "stable",
@@ -71,7 +71,7 @@
          "web" : "http://github.com/jquelin/games-risk-extramaps-imaginary"
       }
    },
-   "version" : "3.112691",
+   "version" : "3.112710",
    "x_Dist_Zilla" : {
       "plugins" : [
          {
@@ -97,7 +97,7 @@
          {
             "class" : "Dist::Zilla::Plugin::KwaliteeTests",
             "name" : "@JQUELIN/KwaliteeTests",
-            "version" : "1.101420"
+            "version" : "2.020000"
          },
          {
             "class" : "Dist::Zilla::Plugin::MinimumVersionTests",

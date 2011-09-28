@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::Map::Risk2210;
 {
-  $Games::Risk::Map::Risk2210::VERSION = '3.112691';
+  $Games::Risk::Map::Risk2210::VERSION = '3.112710';
 }
 # ABSTRACT: Risk 2210 Map
 
@@ -52,11 +52,11 @@ return (
 [4, __("Africa"), 3, "orange"],
 [5, __("Asia"), 7, "green"],
 [6, __("Australia"), 2, "magenta"],
-[7, __("US Pacific"), 2, "blue"],
-[8, __("Asia Pacific"), 1, "yellow"],
+[7, __("Asia Pacific"), 1, "yellow"],
+[8, __("US Pacific"), 2, "blue"],
 [9, __("North Atlantic"), 2, "red"],
 [10, __("South Atlantic"), 1, "green"],
-[11, __("Indian"), 1, "orange"],
+[11, __("Indian"), 2, "orange"],
 );
 }
 
@@ -227,7 +227,7 @@ Games::Risk::Map::Risk2210 - Risk 2210 Map
 
 =head1 VERSION
 
-version 3.112691
+version 3.112710
 
 =head1 DESCRIPTION
 

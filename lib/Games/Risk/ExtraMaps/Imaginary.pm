@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::ExtraMaps::Imaginary;
 {
-  $Games::Risk::ExtraMaps::Imaginary::VERSION = '3.112691';
+  $Games::Risk::ExtraMaps::Imaginary::VERSION = '3.112710';
 }
 # ABSTRACT: a set of imaginary maps for Games::Risk
 
@@ -34,7 +34,7 @@ Games::Risk::ExtraMaps::Imaginary - a set of imaginary maps for Games::Risk
 
 =head1 VERSION
 
-version 3.112691
+version 3.112710
 
 =head1 DESCRIPTION
 

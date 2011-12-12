@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Games-Risk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-09-26 15:19+0200\n"
-"PO-Revision-Date: 2011-09-26 15:20+0100\n"
+"PO-Revision-Date: 2011-09-28 14:48+0100\n"
 "Last-Translator: Jérôme Quelin <jquelin@gmail.com>\n"
 "Language-Team: Jérôme Quelin <jquelin@gmail.com>\n"
 "Language: \n"
@@ -241,7 +241,7 @@ msgstr "Sung Tzu"
 
 #: lib/Games/Risk/Map/Risk2210.pm:98
 msgid "Neo Tokyo"
-msgstr "Neo Tokyo"
+msgstr "Néo Tokyo"
 
 #: lib/Games/Risk/Map/Risk2210.pm:99
 msgid "Poseidon"
@@ -269,7 +269,7 @@ msgstr "Nova Brasilia"
 
 #: lib/Games/Risk/Map/Risk2210.pm:105
 msgid "Neo Paulo"
-msgstr "Neo Paulo"
+msgstr "Néo Paulo"
 
 #: lib/Games/Risk/Map/Risk2210.pm:106
 msgid "The Ivory Reef"

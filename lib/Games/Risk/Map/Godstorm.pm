@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::Map::Godstorm;
 {
-  $Games::Risk::Map::Godstorm::VERSION = '3.112710';
+  $Games::Risk::Map::Godstorm::VERSION = '3.113460';
 }
 # ABSTRACT: Risk GodStorm
 
@@ -202,7 +202,7 @@ Games::Risk::Map::Godstorm - Risk GodStorm
 
 =head1 VERSION
 
-version 3.112710
+version 3.113460
 
 =head1 DESCRIPTION
 

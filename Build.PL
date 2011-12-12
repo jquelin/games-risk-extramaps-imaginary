@@ -20,7 +20,7 @@ my %module_build_args = (
     "Jerome Quelin"
   ],
   "dist_name" => "Games-Risk-ExtraMaps-Imaginary",
-  "dist_version" => "3.112710",
+  "dist_version" => "3.113460",
   "license" => "gpl",
   "module_name" => "Games::Risk::ExtraMaps::Imaginary",
   "recommends" => {},
